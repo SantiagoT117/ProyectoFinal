@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748441270 source:c:\users\valeri-nicol\onedrive - correounivalle.edu.co\escritorio\proyectofinaldefinitivo\proyectofinal\main.cpp
+	<iostream>
+
+1748441518 source:c:\users\valeri-nicol\onedrive - correounivalle.edu.co\escritorio\proyectofinaldefinitivo\proyectofinal\src\jugadores.cpp
+	"Jugadores.h"
+	<iostream>
+
+1748441518 c:\users\valeri-nicol\onedrive - correounivalle.edu.co\escritorio\proyectofinaldefinitivo\proyectofinal\include\jugadores.h
+	<string>
+
