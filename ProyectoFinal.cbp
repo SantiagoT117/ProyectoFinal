@@ -34,8 +34,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Juegos.h" />
 		<Unit filename="include/Jugadores.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Juegos.cpp" />
 		<Unit filename="src/Jugadores.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

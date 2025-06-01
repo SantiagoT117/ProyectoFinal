@@ -1,0 +1,13 @@
+# Archivos de Code::Blocks
+*.layout
+*.depend
+*.cbp
+*.layout.save
+
+# Archivos compilados
+*.exe
+*.o
+
+# Carpetas comunes de compilación
+bin/
+obj/
